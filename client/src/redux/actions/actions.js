@@ -1,6 +1,6 @@
-/* eslint-disable no-unreachable */
-import axios from 'axios'
+import axios from 'axios';
 import {GET_ALL_DOGS, GET_ALL_TEMPERAMENTS, GET_DOG_NAME, GET_DOG_DETAIL, FILTER_BY_NAME, FILTER_BY_WEIGHT, FILTER_BY_TEMPERAMENTS, FILTER_CREATED_DOG, CLEAR_DETAIL } from './actions.types'
+
 
 
 

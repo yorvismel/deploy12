@@ -4,7 +4,7 @@ import Landing from './components/landing/Landing';
 import Home from './components/home/Home';
 import Detail from './components/detail/Detail'
 import DogCreate from './components/dogcreate/DogCreate';
-import axios from 'axios'
+const axios = require('axios')
 axios.defaults.baseURL = 'http://localhost:3001';
 function App() {
   return (
