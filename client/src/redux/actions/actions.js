@@ -62,6 +62,7 @@ export function postDog (data){
             const posted = await axios.post(`/dogs`, data);
             return posted
         }
+    // eslint-disable-next-line no-unreachable
     } catch(error) {
         alert('The dog could not be created')
     }
