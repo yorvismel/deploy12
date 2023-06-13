@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6bbf353d.chunk.css",
+    "main.js": "/static/js/main.f7e79444.chunk.js",
+    "main.js.map": "/static/js/main.f7e79444.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cf376c22.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cf376c22.js.map",
+    "static/css/2.f26e749f.chunk.css": "/static/css/2.f26e749f.chunk.css",
+    "static/js/2.37254db6.chunk.js": "/static/js/2.37254db6.chunk.js",
+    "static/js/2.37254db6.chunk.js.map": "/static/js/2.37254db6.chunk.js.map",
+    "static/js/3.1ecd2c95.chunk.js": "/static/js/3.1ecd2c95.chunk.js",
+    "static/js/3.1ecd2c95.chunk.js.map": "/static/js/3.1ecd2c95.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f26e749f.chunk.css.map": "/static/css/2.f26e749f.chunk.css.map",
+    "static/css/main.6bbf353d.chunk.css.map": "/static/css/main.6bbf353d.chunk.css.map",
+    "static/js/2.37254db6.chunk.js.LICENSE.txt": "/static/js/2.37254db6.chunk.js.LICENSE.txt",
+    "static/media/dog1.1f26d2ad.jpg": "/static/media/dog1.1f26d2ad.jpg",
+    "static/media/dog2.73a2d24e.jpg": "/static/media/dog2.73a2d24e.jpg",
+    "static/media/dog3.14be8e5f.jpg": "/static/media/dog3.14be8e5f.jpg",
+    "static/media/drawing-2802_256.cce8fc3a.gif": "/static/media/drawing-2802_256.cce8fc3a.gif",
+    "static/media/Card.css": "/static/media/puppy-ge3b00f9a5_1280.c2f27141.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf376c22.js",
+    "static/css/2.f26e749f.chunk.css",
+    "static/js/2.37254db6.chunk.js",
+    "static/css/main.6bbf353d.chunk.css",
+    "static/js/main.f7e79444.chunk.js"
+  ]
+}
